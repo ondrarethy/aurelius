@@ -2,7 +2,7 @@
 
 # Aurelius Music
 
-**Aurelius Music** je hudební Discord bot propojený se SpotifyAPI a Youtube-DL.
+**Aurelius Music** is music Discord bot connected with SpotifyAPI and Youtube-DL.
 
 ## Contributors
 * [Rethy](https://github.com/ondrarethy)
