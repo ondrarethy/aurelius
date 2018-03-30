@@ -10,7 +10,7 @@
 ## Dependencies
 * [Discord.js](https://discord.js.org/#/)  - Main discord API library
 * [Dialogflow](https://dialogflow.com/)  - Google AI (yes, we have Google Assistent support)
-* [AureliusPyFW]( website soon )  - Python library for many purposes
+* [AureliusPyFW](https://github.com/ondrarethy/aurelius/)  - Python library for many purposes
 * [MySQL](https://www.npmjs.com/package/mysql)  - Database, just a database
 * [SpotifyAPI](https://developer.spotify.com/web-api/)  - Spotify API for Spotify functions
 * [Youtube-DL](https://youtube-dl.org/)  - Youtube DL for Youtube songs
